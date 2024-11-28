@@ -1,0 +1,63 @@
+[
+  {
+    "objectID": "utils/data_loading.html",
+    "href": "utils/data_loading.html",
+    "title": "Data Loading Helper Classes and Types",
+    "section": "",
+    "text": "source\n\nDataLoader\n\n DataLoader (path:Union[str,pathlib.Path],\n             metadata_file_name:Optional[str]=None,\n             custom_data_loader:Union[Callable,str,NoneType]=None)\n\nLoad data from a file or a directory of files, while keeping track of the metadata.\n\n\n\n\n\n\n\n\n\n\nType\nDefault\nDetails\n\n\n\n\npath\nUnion\n\npath to the file or directory\n\n\nmetadata_file_name\nOptional\nNone\nname of the metadata file\n\n\ncustom_data_loader\nUnion\nNone\ncustom data loader function or name of module with custom data loader\n\n\nReturns\nDataLoader",
+    "crumbs": [
+      "utils",
+      "Data Loading Helper Classes and Types"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "haruspex",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "haruspex"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "haruspex",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall haruspex in Development mode\n# make sure haruspex package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to haruspex\n$ nbdev_prepare",
+    "crumbs": [
+      "haruspex"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "haruspex",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/redam94/haruspex.git\nor from conda\n$ conda install -c redam94 haruspex\nor from pypi\n$ pip install haruspex\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "haruspex"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "haruspex",
+    "section": "How to use",
+    "text": "How to use",
+    "crumbs": [
+      "haruspex"
+    ]
+  },
+  {
+    "objectID": "haruspex_model.html",
+    "href": "haruspex_model.html",
+    "title": "Haruspex Model",
+    "section": "",
+    "text": "source\n\nHaruspexModel\n\n HaruspexModel ()\n\nInitialize self. See help(type(self)) for accurate signature.",
+    "crumbs": [
+      "Haruspex Model"
+    ]
+  }
+]
