@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "haruspex"
+  site-url: "https://redam94.github.io/haruspex"
+  description: "A Python library for advanced hierarchical Bayesian modeling with time series functionality, enabling causal inference in media mix modeling."
+  repo-branch: main
+  repo-url: "https://github.com/redam94/haruspex"
