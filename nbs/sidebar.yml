@@ -5,5 +5,4 @@ website:
       - 00_haruspex_model.ipynb
       - section: utils
         contents:
-          - utils/00_constants.ipynb
-          - utils/01_data_loading.ipynb
+          - utils/00_data_loading.ipynb

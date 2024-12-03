@@ -1,0 +1,3 @@
+[submodule "jax_xarray_utils"]
+	path = jax_xarray_utils
+	url = https://github.com/redam94/jax_xarray_utils.git

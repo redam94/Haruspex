@@ -9,4 +9,12 @@ d = { 'settings': { 'branch': 'main',
             'haruspex.utils.data_loading': { 'haruspex.utils.data_loading.DataLoader': ( 'utils/data_loading.html#dataloader',
                                                                                          'haruspex/utils/data_loading.py'),
                                              'haruspex.utils.data_loading.DataLoader.__init__': ( 'utils/data_loading.html#dataloader.__init__',
-                                                                                                  'haruspex/utils/data_loading.py')}}}
+                                                                                                  'haruspex/utils/data_loading.py'),
+                                             'haruspex.utils.data_loading.DataLoader._load_data': ( 'utils/data_loading.html#dataloader._load_data',
+                                                                                                    'haruspex/utils/data_loading.py'),
+                                             'haruspex.utils.data_loading.build_datatree': ( 'utils/data_loading.html#build_datatree',
+                                                                                             'haruspex/utils/data_loading.py'),
+                                             'haruspex.utils.data_loading.key_gen': ( 'utils/data_loading.html#key_gen',
+                                                                                      'haruspex/utils/data_loading.py'),
+                                             'haruspex.utils.data_loading.ols_model': ( 'utils/data_loading.html#ols_model',
+                                                                                        'haruspex/utils/data_loading.py')}}}
